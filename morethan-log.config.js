@@ -10,12 +10,12 @@ const CONFIG = {
     linkedin: '',
     instagram: '',
   },
-//   projects: [
+  projects: [
 //     {
 //       name: 'Untilled',
 //       href: 'https://untilled.web.app'
 //     }
-//   ],
+  ],
   // blog setting
   blog: {
     title: 'heads-et',
