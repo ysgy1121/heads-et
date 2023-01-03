@@ -11,10 +11,10 @@ const CONFIG = {
     instagram: '',
   },
   projects: [
-//     {
-//       name: 'Untilled',
-//       href: 'https://untilled.web.app'
-//     }
+    {
+      name: '',
+      href: 'https://play.google.com/store/apps/details?id=com.o2a.ketchup'
+    }
   ],
   // blog setting
   blog: {
