@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: '',
+      name: 'ketchup',
       href: 'https://play.google.com/store/apps/details?id=com.o2a.ketchup'
     }
   ],
